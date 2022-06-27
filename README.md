@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   
   <img align="center" alt="Npm" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  <img align="right" alt="yoda" height="150" style="border-radius:50px;" src="https://image.pngaaa.com/747/70747-middle.png?width=676&height=676">
+  <img align="right" alt="yoda" height="150" style="border-radius:50px;" src="https://imagensemoldes.com.br/wp-content/uploads/2020/06/C-3PO-Yoda-PNG-Obi-Wan-Kenobi-Star-Wars-PNG.png?width=676&height=676">
 </div><br>
 
 <!--
