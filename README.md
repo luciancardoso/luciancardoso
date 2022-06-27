@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
- </br>
+ <br><br>
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="" src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm" />
   <img align="right" alt="" height="150" style="border-radius:50px;" src="?width=676&height=676">
@@ -51,6 +51,7 @@ Here are some ideas to get you started:
  <a href="mailto:luciancardoso20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<br>
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
 </div>
