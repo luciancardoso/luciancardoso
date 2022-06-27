@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px"></div>
 <!--### 🛠 Tecnologias que eu uso no meu dia-->
 
-<div align="center" valign="top"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -44,10 +44,11 @@ Here are some ideas to get you started:
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  
   <img align="center" alt="Npm" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="right" alt="yoda" height="150" style="border-radius:50px;" src="https://imagensemoldes.com.br/wp-content/uploads/2020/06/C-3PO-Yoda-PNG-Obi-Wan-Kenobi-Star-Wars-PNG.png?width=676&height=676">
 </div><br>
+
+##
 
 <!--
 <div align="center" valign="top"><br>
@@ -65,7 +66,7 @@ Here are some ideas to get you started:
   <img align="right" alt="yoda" height="150" style="border-radius:50px;" src="?width=676&height=676">
 </div><br/> -->
 
-<div align="center">
+<div>
  <a href="https://www.linkedin.com/in/luciancardoso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:luciancardoso20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
