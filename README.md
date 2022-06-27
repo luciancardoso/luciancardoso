@@ -67,8 +67,6 @@ Here are some ideas to get you started:
  <a href="mailto:luciancardoso20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px"></div>
-
 <br>
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
