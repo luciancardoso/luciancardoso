@@ -1,4 +1,4 @@
-### Hi 👋, I'm Lucian Cardoso
+## Olá Eu sou o Lucian Cardoso 👋
 
 <!--
 **luciancardoso/luciancardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
 -->
-##
-
-<h3> 💻 &nbsp;Sobre Mim </h3>
-
-- 🎓 &nbsp; Sou Estudante de Engenharia da Computação - MANAUS - AM.
+<div>
+ <a href="https://www.linkedin.com/in/luciancardoso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ##
 
-### 🛠 Languages and Tools
- 
+<div align="center">
+<a href="https://github.com/luciancardoso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciancardoso&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luciancardoso&theme=radical&layout=compact" />
+</a>
+</div>
+
+### 🛠 Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+ <img align="right" alt="" height="150" style="border-radius:50px;" src="?width=676&height=676">
+</div><br/>
+
+Apaixonado por tecnologia.
+
+<!--
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -37,10 +55,6 @@ Here are some ideas to get you started:
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+-->
 
-<p>
-<a href="https://github.com/luciancardoso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciancardoso&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luciancardoso&theme=radical&layout=compact" />
-</a>
-</p>
+
