@@ -19,8 +19,8 @@ Here are some ideas to get you started:
  <p align="center">Estudo Desenvolvimento Full-Stack.</p>
  <p align="center">Apaixonado por tecnologia.</p>
 </div>
- 
-![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
+
+<div align="center"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px"></div>
 
 <div align="center">
 <a href="https://github.com/luciancardoso">
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-<div align="center"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px"></div>
+
 <!--### 🛠 Tecnologias que eu uso no meu dia-->
 
 <div style="display: inline_block"><br>
@@ -76,6 +76,7 @@ Here are some ideas to get you started:
   <p>Feito com :heart: e JavaScript.</p>
 </div>
 
+![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 
 <!--
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
