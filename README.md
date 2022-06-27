@@ -1,4 +1,4 @@
-## Olá Eu sou o Lucian Cardoso 👋
+## <div align="center">Olá Eu sou o Lucian Cardoso 👋</div>
 
 <!--
 **luciancardoso/luciancardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
 -->
-<div>
- <a href="https://www.linkedin.com/in/luciancardoso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
+<div>
+ <p align="center">Estudo Desenvolvimento Full-Stack.</p>
+ <p align="center">Apaixonado por tecnologia.</p>
+</div>
+ 
 ##
 
 <div align="center">
@@ -43,7 +45,14 @@ Here are some ideas to get you started:
   <img align="right" alt="" height="150" style="border-radius:50px;" src="?width=676&height=676">
 </div><br/>
 
-Apaixonado por tecnologia.
+<div align="center">
+ <a href="https://www.linkedin.com/in/luciancardoso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="mailto:luciancardoso20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+</div>
 
 <!--
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
