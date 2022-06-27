@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   
   <img align="center" alt="Npm" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  <img align="right" alt="yoda" height="150" style="border-radius:50px;" src="https://image.pngaaa.com/747/70747-middle.png?width=676&height=676">
 </div><br>
 
 <!--
@@ -61,7 +62,7 @@ Here are some ideas to get you started:
  <br><br>
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="" src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm" />
-  <img align="right" alt="" height="150" style="border-radius:50px;" src="?width=676&height=676">
+  <img align="right" alt="yoda" height="150" style="border-radius:50px;" src="?width=676&height=676">
 </div><br/> -->
 
 <div align="center">
