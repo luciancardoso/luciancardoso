@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
- <p align="center">Estudo Desenvolvimento Full-Stack.</p>
+ <p align="center">Estudante de Desenvolvimento Full-Stack.</p>
  <p align="center">Apaixonado por tecnologia.</p>
 </div>
 
